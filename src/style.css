@@ -30,6 +30,13 @@ header {
     padding: 2rem 0;
 }
 
+footer {
+    padding: 1rem;
+    margin: 2.25rem 1.75rem 1rem;
+    text-align: center;
+    font-size: 1rem;
+}
+
 #themeSwitcher {
     background-color: var(--bg-color);
     border: .125rem solid var(--font-color);
